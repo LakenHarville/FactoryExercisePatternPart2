@@ -1,0 +1,13 @@
+F:\repos\FactoryExercisePatternPart2\FactoryExercisePatternPart2\obj\Debug\netcoreapp3.1\FactoryExercisePatternPart2.csproj.AssemblyReference.cache
+F:\repos\FactoryExercisePatternPart2\FactoryExercisePatternPart2\obj\Debug\netcoreapp3.1\FactoryExercisePatternPart2.AssemblyInfoInputs.cache
+F:\repos\FactoryExercisePatternPart2\FactoryExercisePatternPart2\obj\Debug\netcoreapp3.1\FactoryExercisePatternPart2.AssemblyInfo.cs
+F:\repos\FactoryExercisePatternPart2\FactoryExercisePatternPart2\obj\Debug\netcoreapp3.1\FactoryExercisePatternPart2.csproj.CoreCompileInputs.cache
+F:\repos\FactoryExercisePatternPart2\FactoryExercisePatternPart2\bin\Debug\netcoreapp3.1\FactoryExercisePatternPart2.exe
+F:\repos\FactoryExercisePatternPart2\FactoryExercisePatternPart2\bin\Debug\netcoreapp3.1\FactoryExercisePatternPart2.deps.json
+F:\repos\FactoryExercisePatternPart2\FactoryExercisePatternPart2\bin\Debug\netcoreapp3.1\FactoryExercisePatternPart2.runtimeconfig.json
+F:\repos\FactoryExercisePatternPart2\FactoryExercisePatternPart2\bin\Debug\netcoreapp3.1\FactoryExercisePatternPart2.runtimeconfig.dev.json
+F:\repos\FactoryExercisePatternPart2\FactoryExercisePatternPart2\bin\Debug\netcoreapp3.1\FactoryExercisePatternPart2.dll
+F:\repos\FactoryExercisePatternPart2\FactoryExercisePatternPart2\bin\Debug\netcoreapp3.1\FactoryExercisePatternPart2.pdb
+F:\repos\FactoryExercisePatternPart2\FactoryExercisePatternPart2\obj\Debug\netcoreapp3.1\FactoryExercisePatternPart2.dll
+F:\repos\FactoryExercisePatternPart2\FactoryExercisePatternPart2\obj\Debug\netcoreapp3.1\FactoryExercisePatternPart2.pdb
+F:\repos\FactoryExercisePatternPart2\FactoryExercisePatternPart2\obj\Debug\netcoreapp3.1\FactoryExercisePatternPart2.genruntimeconfig.cache

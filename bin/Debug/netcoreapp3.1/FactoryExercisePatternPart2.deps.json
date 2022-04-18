@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FactoryExercisePatternPart2/1.0.0": {
+        "runtime": {
+          "FactoryExercisePatternPart2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FactoryExercisePatternPart2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
